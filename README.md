@@ -11,7 +11,7 @@ I am Expédit ALAGBE, an Application Developer dedicated to assisting businesses
 ## Portfolio
 
 Visit my portfolio to discover more about my skills and projects:
-[Expédit ALAGBE's Portfolio][https://expeditalagbe.com/]
+Expédit ALAGBE's Portfolio[https://expeditalagbe.com/en.html]
 ```
 
 ### Français (French):
@@ -26,6 +26,6 @@ Je suis Expédit ALAGBE, un développeur d'applications dévoué à aider les en
 ## Portfolio
 
 Visitez mon portfolio pour en savoir plus sur mes compétences et mes projets :
-[Portfolio d'Expédit ALAGBE][https://expeditalagbe.com/]
+Portfolio d'Expédit ALAGBE [https://expeditalagbe.com/]
 ```
 
